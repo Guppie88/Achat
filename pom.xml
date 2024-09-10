@@ -66,14 +66,14 @@
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
             <artifactId>s3</artifactId>
-            <version>2.20.93</version> <!-- Uppdaterad version -->
+            <version>2.27.22</version> <!-- Uppdaterad version -->
         </dependency>
 
         <!-- AWS SDK Core (krävs för S3) -->
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
             <artifactId>core</artifactId>
-            <version>2.20.93</version> <!-- Uppdaterad version -->
+            <version>2.27.22</version> <!-- Uppdaterad version -->
         </dependency>
     </dependencies>
 
